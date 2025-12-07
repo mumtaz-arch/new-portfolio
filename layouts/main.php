@@ -4,7 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mumtaz — Fullstack Developer</title>
+
+    <!-- SEO -->
     
+    <meta name="description" content="Portofolio Fakhri Mumtaz Basyari, siswa MAKN Ende yang mengembangkan website, sistem, dan aplikasi modern. Keahlian: PHP, Laravel, JavaScript, React, dan teknologi koding Indonesia.">
+
+    <meta name="keywords" content="Fakhri Mumtaz Basyari, Mumtaz Developer, siswa MAKN Ende, MAKN Ende, jasa pembuatan website, programmer Indonesia, portofolio developer, koding indonesia, web developer NTT">
+    <meta name="author" content="Fakhri Mumtaz Basyari">
+
+    <!-- Open Graph (When shared on WhatsApp & Facebook) -->
+    <meta property="og:title" content="Portofolio – Fakhri Mumtaz Basyari">
+    <meta property="og:description" content="Siswa MAKN Ende & Fullstack Developer yang membangun website dan aplikasi modern.">
+    <meta property="og:image" content="https://domainmu.com/assets/img/hero.jpg">
+    <meta property="og:url" content="https://domainmu.com/">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Portofolio – Fakhri Mumtaz Basyari">
+    <meta name="twitter:description" content="Fullstack Developer muda dari MAKN Ende.">
+    <meta name="twitter:image" content="https://domainmu.com/assets/img/hero.jpg">
+
+     <!-- SEO Schema.org -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Person",
+      "name": "Fakhri Mumtaz Basyari",
+      "jobTitle": "Fullstack Developer",
+      "affiliation": "MAKN Ende",
+      "url": "https://domainmu.com",
+      "description": "Siswa MAKN Ende yang membangun website dan aplikasi modern dengan teknologi koding Indonesia.",
+      "image": "https://domainmu.com/assets/img/hero.jpg",
+      "sameAs": []
+    }
+    </script>
+
     <!-- Fonts: Inter & Satoshi (using Google Fonts for Inter, Setup for Satoshi) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
